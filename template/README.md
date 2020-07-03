@@ -2,7 +2,7 @@
 
 Map description
 
-[![Preview](./template/large.png)](https://raw.githubusercontent.com/FPVFreeriderCommunity/maps/master/template/large.png)
+[![Preview](./large.png)](https://raw.githubusercontent.com/FPVFreeriderCommunity/maps/master/template/large.png)
 
 Sample license
 
