@@ -1,4 +1,4 @@
-= Mapname by
+# Mapname by
 
 Map description
 
